@@ -1,3 +1,3 @@
 ### Hello, I'm Christian 👋
 
-I'm a visualization student at the University of Bergen. To learn more about me, check out my [website](https://chrhein.github.io/ "Christian Hein's Homepage") 👨🏻‍💻
+I'm currently taking a Master's Degree in Informatics, specializing in Visualization. I'm passionate about programming, working on hobby projects and learning new technologies. If you want to know more about me, be sure to check out [my personal website](https://christianhein.no/ "Christian Hein's Personal Website").
