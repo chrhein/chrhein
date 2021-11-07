@@ -3,16 +3,12 @@
 <style>
 
 .rounded {
-    max-width: 600px;
-    max-height: 200px;
     width: 50%;
-    height: 50%;
+    height: 20%;
     overflow: auto;
     margin: auto;
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
-    border-radius: 25px;
-    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.30);
 }
 
 
