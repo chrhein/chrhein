@@ -24,7 +24,7 @@
       height: 100px;
       min-height: 50px;
       max-height: 100px;
-      border-radius: 25px;
+      border-radius: 0 0 16px 16px;
     }
     .parallax>use {
       animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;      
